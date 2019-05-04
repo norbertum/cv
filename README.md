@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -96,7 +95,3 @@
 <a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Downlload me</a>
 
 <h3><a href="contactme.html">Contact me</a></h3>
-
-  </body>
-  <br>
-</html>
