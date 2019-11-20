@@ -1,97 +1,110 @@
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>😎😎Norbert's Personal Site</title>
+    <title>My hobbies</title>
   </head>
   <body>
-<table cellspacing="20">
-  <tr>
-    <td><img src="http://www.victoriabuzz.com/wp-content/uploads/2019/01/Katya-e1548712956348.jpg" alt="Norbert's profile pic"></td>
-    <td><h1>Norbert Beko</h1>
-      <p><i>Agriculture <strong>Engineer</strong></i></p>
-    </td>
-  </tr>
-</table>
+    <h3>Hobbies</h3>
+
+    <ol>
+      <li> <a href="https://www.youtube.com/watch?v=pz1ztvu77FM">walking</a></li>
+      <li><a href="https://www.youtube.com/watch?v=Cb5bjlnDkCs">Taking photos</a></li>
+      <li><a href="https://www.youtube.com/watch?v=RfVgZSaNZFY">driving</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sniUqcVhks0">walk my dog</a></li>
+    </ol>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> ⊽ Norbert's Personal Site
+  </title>
+  </head>
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td>  <img src="photo.jpg" alt="norberts photo" class="w3-col s6" style="border-radius:70%;"></td>
+        <td><h1>Norbert Beko</h1>
+
+        <p><em><a href="https://index.hu/">Site <strong>manager</strong></em></a></p>
+        <p>This letter is reffering to the recently published B. mentor program forteamleader role. I wish to show my interst and apply to this prgram. I am convinced my  sills personality and wok experience makem e an ideal candidate for this rol. I have relevant manager experience that I have had as office manager. Organize workflow and schedules, manage a small team, give feedback. </p>
+      </td>
+      </tr>
+    </table>
+    <hr>
 
 
-<p>BIO:
-  <br>
-  <ul>
-<li> Accommodation support of the Hungarian market</li>
-<li>Supporting sales</li>
-<li>Optimize and expand distribution partnerships</li>
-<li>Build and maintain strong working <a href="index.hu">relationships</a> with properties</li>
-<li>Improve service level and operational standards</li>
-<li>Participate in the <a href="https://értem.com">development</a> of pricing and promotional strategies</li>
-<li>Resolve customer complaints</li>
-  </ul>
-</p>
 
-<hr size="4" strong/>
-<br>
-<p>
-<h3>Education</h3>
-
+<h3><strong>Books and Teaching </strong></h3>
 <ul>
-  <li>School of life</li>
-</p>
-<br>
+  <li>The comlete web development boodcamp</li>
+  <li>Massage curse, not finished yet</li>
 </ul>
-<hr>
+<h3>Work experience</h3>
 
-<h3><a href="hobbies.html">Hobbies</a></h3>
-<ol>
-  <li><a href="https://en.wikipedia.org/wiki/Coffee">Coffee</a></li>
-  <li>Hiking</li>
-  <li>Dog walking</li>
-
-<table border="
-2">
+<table>
 
   <thead>
     <tr>
       <th>Dates</th>
-      <th>Work</th>
-    </tr>
-  </thead>
-  <tr>
-    <td>2010-2011</td>
-    <td>loosing time </td>
+      <th>Experience</th>
   </tr>
   <tr>
-    <td>2012-2019</td>
-    <td>Starting a new life, achive my goals</td>
+    <td>2015- </td>
+    <td>Booking.com Accommodation Service</td>
+  </tr>
+  <tr>
+    <td>2012 - 2014</td>
+    <td>Accommodation experience - night shift responsible</td>
   </tr>
 </table>
-<br>
-</ol>
 <hr>
-<h3>Work Experience</h3>
-<br>
-<hr>
-<br>
-<h3><a href="skills.html">Skills</a></h3>
-
-<table cellspacing="10">
+<h3>Skills</h3>
+<table>
   <tr>
-    <td>Emberismeret</td>
-    <td>😎😎😎😎😎</td>
-    <td>Windows</td>
-    <td>😎😎😎😎</td>
+  <td>English</td>
+  <td>Fluent</td>
+  </tr>
+  <tr>
+    <td>Hungarian</td>
+    <td>Fluent</td>
+  </tr>
+</table>
 
-    </tr>
-    <tr>
-      <td>Angol</td>
-      <td>😎😎😎😎</td>
-      <td>Gépírás</td>
-      <td>😎😎😎😎😎</td>
-    </tr>
-  </table>
-  <br>
-  <hr>
+<br>
+<br>
+<a href="hobbies.html">My Hobbies</a>
+<br>
+<a href="contactme.html">My Contacts</a>
+
+  </body>
+</html>
 
 
-
-<a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Downlload me</a>
-
-<h3><a href="contactme.html">Contact me</a></h3>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Contacts</title>
+  </head>
+  <body>
+    <h1>My Contact Details:</h1>
+    <hr>
+    <h3>Phone Number:<a href="tel:+34652232734">+3465223273</a></h3>
+<h3>Email adddress: <a href="mailto:norbertum@gmail.<!-- COMBAK:  -->?subject=feedback">norbertum@gmail.com</a></h3>
+<hr>
+<form action="mailto:norbertum@gmail.com" method="post" enctype="text/plain">
+  <label>Your Name:</label>
+<input type="text" name="yourName" value=""><br>
+    <label>Your email:</label>
+  <input type="email" name="yourEmail" value=""><br>
+  <label>Your message:</label><br>
+  <textarea name="yourMessage" rows="10" cols="30"></textarea><br>
+  <input type="submit" name="">
+    <hr>
+  </body>
+</html>
