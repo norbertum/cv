@@ -13,6 +13,28 @@
       <li><a href="https://www.youtube.com/watch?v=RfVgZSaNZFY">driving</a></li>
       <li><a href="https://www.youtube.com/watch?v=sniUqcVhks0">walk my dog</a></li>
     </ol>
+    
+    <hr>
+    Hi Morgan, 
+
+I'm writing regarding your check-in on this Friday. 
+The address of the Studion is Calle Semoleres 1. 3rd floor door 1. (buzzer 3.1.).  Is the same location that you have booked, for security reason the address only communicated after the confirmed booking. 
+As we have aggreed you will arrivel earlier in the morning. 
+
+You can reach me on +34-644-459-871 I also have whatsapp app. 
+
+The best way from the airport are the airport buses. It is costs 6-7 EUR and take 30-35 minutes until Placa de Catalunya, to the main square. From there the studio is just 12 minutes walking. 
+
+Also If you prefer metro, the nearest metro station called: Jaume I. (yello line). 
+
+If you have any question, please let me know about. 
+
+Thank you. 
+
+See you soon. 
+
+Rod
+     <hr>
 
   </body>
 </html>
