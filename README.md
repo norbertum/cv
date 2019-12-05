@@ -13,7 +13,7 @@
           </tr>
           <h1>Norbert Beko</h1>
 
-        <p><em><a href="https://index.hu/"> <strong>CSPS</strong> Customer Service Partner Support</em></a></p>
+        <p><em><a href="https://index.hu/"> <strong>CSPS</strong> Customer Service Partner Support</em>
         <p>This letter is reffering to the recently published B. mentor program forteamleader role. I wish to show my interst and apply to this prgram. I am convinced my  sills personality and wok experience makem e an ideal candidate for this role. I have relevant manager experience that I have had as office manager. Organize workflow and schedules, manage a small team, give feedback. </p>
     
     <hr>
@@ -27,7 +27,6 @@
 </ul>
 <h3>Work experience</h3>
 
-<table>
 
   <thead>
     <tr>
@@ -83,7 +82,6 @@
   <textarea name="yourMessage" rows="10" cols="30"></textarea><br>
   <input type="submit" name="">
     <hr>
-  </body>
     
     <title>My hobbies</title>
 
