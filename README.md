@@ -6,8 +6,13 @@
     <title> ⊽ Norbert's Personal Site
   </title>
   </head>
-    <div style="background-image:img src="https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg" alt="norberts photo" style="border-radius:70%;">
+    
   <body>
+  <style>
+div {
+  background-image: url('https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg');
+}
+</style>
   
       <tr>
         <td>  <img src="https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg" alt="norberts photo" style="border-radius:70%;"></td>
