@@ -9,7 +9,7 @@
   <body>
     <table cellspacing="20">
       <tr>
-        <td>  <img src="https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg" alt="norberts photo" class="w3-col s6" style="border-radius:70%;"></td>
+        <td>  <img src="https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg" alt="norberts photo" style="border-radius:70%;"></td>
         <td><h1>Norbert Beko</h1>
 
         <p><em><a href="https://index.hu/"> <strong>CSPS</strong> Customer Service Partner Support</em></a></p>
