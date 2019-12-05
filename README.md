@@ -10,7 +10,7 @@
   <body>
   <style>
 div {
-  background-image: url('https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg');
+  background-image: url('https://media.giphy.com/media/vX9Knm94y0X96/giphy.gif');
 }
 </style>
   
