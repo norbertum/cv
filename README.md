@@ -6,11 +6,10 @@
     <title> ⊽ Norbert's Personal Site
   </title>
   </head>
-    
   <body>
   <style>
 div {
-  background-image: url('https://media.giphy.com/media/WoRqq91KnOuM8/giphy.gif');
+  background-image: url('https://media.giphy.com/media/Cv7wrQjYcd6hO/giphy.gif');
 }
 </style>
   
@@ -20,6 +19,7 @@ div {
           </tr>
           <h1>Norbert Beko</h1>
 It is a test page. 
+<br>
         <p><em> <strong>CSPS</strong>- Customer Service Partner Support
         <p>This letter is reffering to the recently published B. mentor program forteamleader role. I wish to show my interst and apply to this prgram. I am convinced my  sills personality and wok experience makem e an ideal candidate for this role. I have relevant manager experience that I have had as office manager. Organize workflow and schedules, manage a small team, give feedback. </p>
     
