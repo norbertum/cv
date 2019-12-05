@@ -9,7 +9,7 @@
   <body>
   <style>
 div {
-  background-image: url('https://media.giphy.com/media/WoRqq91KnOuM8/giphy.gif');
+  background-image: url('https://media.giphy.com/media/FVpTrOFzJeDO8/giphy.gif');
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
