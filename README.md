@@ -11,6 +11,7 @@
 div {
   background-image: url('https://media.giphy.com/media/Cv7wrQjYcd6hO/giphy.gif');
   background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 </style>
   
