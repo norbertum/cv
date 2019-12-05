@@ -69,7 +69,7 @@ It is a test page.
   </head>
   <body>
  
-<h3>Hobbies</h3>
+<h2>Hobbies</h2>
     
     <h3>Phone Number:<a href="tel:+34652232734">+3465223273</a></h3>
 <h3>Email adddress: <a href="mailto:norbertum@gmail.<!-- COMBAK:  -->?subject=feedback">norbertum@gmail.com</a></h3>
