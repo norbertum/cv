@@ -17,8 +17,8 @@
         <td>  <img src="photo.jpg" alt="norberts photo" class="w3-col s6" style="border-radius:70%;"></td>
         <td><h1>Norbert Beko</h1>
 
-        <p><em><a href="https://index.hu/">Site <strong>manager</strong></em></a></p>
-        <p>This letter is reffering to the recently published B. mentor program forteamleader role. I wish to show my interst and apply to this prgram. I am convinced my  sills personality and wok experience makem e an ideal candidate for this rol. I have relevant manager experience that I have had as office manager. Organize workflow and schedules, manage a small team, give feedback. </p>
+        <p><em><a href="https://index.hu/"> <strong>CSPS</strong> Customer Service Partner Support</em></a></p>
+        <p>This letter is reffering to the recently published B. mentor program forteamleader role. I wish to show my interst and apply to this prgram. I am convinced my  sills personality and wok experience makem e an ideal candidate for this role. I have relevant manager experience that I have had as office manager. Organize workflow and schedules, manage a small team, give feedback. </p>
       </td>
       </tr>
     </table>
@@ -104,10 +104,8 @@
       <li> <a href="https://www.youtube.com/watch?v=pz1ztvu77FM">walking</a></li>
       <li><a href="https://www.youtube.com/watch?v=Cb5bjlnDkCs">Taking photos</a></li>
       <li><a href="https://www.youtube.com/watch?v=RfVgZSaNZFY">driving</a></li>
-      <li><a href="https://www.youtube.com/watch?v=sniUqcVhks0">walk my dog</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sniUqhks0">walk my dog</a></li>
     </ol>
     
-    
-
   </body>
 </html>
