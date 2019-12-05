@@ -7,7 +7,7 @@
   </title>
   </head>
   <body>
-    <div style="background-image: img src="https://engage-site-cms.s3.amazonaws.com/production/engage-interactive/cms/processed/8d394aff09122d5530e03e90ac2c0bbf.gif" class="push--auto">;">
+    <div style="background-image: https://engage-site-cms.s3.amazonaws.com/production/engage-interactive/cms/processed/8d394aff09122d5530e03e90ac2c0bbf.gif" class="push--auto;">
       <tr>
         <td>  <img src="https://cdn.ticketswap.com/public/201807/5a2da506-69e5-46e2-93b5-0236cbb03059.77a7a3f89833adb8ffbdd1642b14e56a9dd27889.jpeg" alt="norberts photo" style="border-radius:70%;"></td>
         
