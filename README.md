@@ -86,8 +86,7 @@
   </body>
     
     <title>My hobbies</title>
-  </head>
-  <body>
+
     <h3>Hobbies</h3>
 
     <ol>
