@@ -56,11 +56,6 @@ It is a test page.
 </table>
 
 <br>
-<br>
-<a href="hobbies.html">My Hobbies</a>
-<br>
-<a href="contactme.html">My Contacts</a>
-
  
 <html lang="en" dir="ltr">
   <head>
@@ -71,8 +66,8 @@ It is a test page.
  
 <h3>Contact details: </h3>
     
-    <h3>Phone Number:<a href="tel:+34652232734">+3465223273</a></h3>
-<h3>Email adddress: <a href="mailto:norbertum@gmail.<!-- COMBAK:  -->?subject=feedback">norbertum@gmail.com</a></h3>
+    <h4>Phone Number:<a href="tel:+34652232734">+3465223273</a></h4>
+<h4>Email adddress: <a href="mailto:norbertum@gmail.<!-- COMBAK:  -->?subject=feedback">norbertum@gmail.com</a></h4>
 <hr>
 <form action="mailto:norbertum@gmail.com" method="post" enctype="text/plain">
   <label>Your Name:</label>
