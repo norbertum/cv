@@ -10,7 +10,7 @@
   <body>
   <style>
 div {
-  background-image: url('https://media.giphy.com/media/vX9Knm94y0X96/giphy.gif');
+  background-image: url('https://media.giphy.com/media/WoRqq91KnOuM8/giphy.gif');
 }
 </style>
   
