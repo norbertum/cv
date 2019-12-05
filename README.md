@@ -2,21 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>My hobbies</title>
-  </head>
-  <body>
-    <h3>Hobbies</h3>
-
-    <ol>
-      <li> <a href="https://www.youtube.com/watch?v=pz1ztvu77FM">walking</a></li>
-      <li><a href="https://www.youtube.com/watch?v=Cb5bjlnDkCs">Taking photos</a></li>
-      <li><a href="https://www.youtube.com/watch?v=RfVgZSaNZFY">driving</a></li>
-      <li><a href="https://www.youtube.com/watch?v=sniUqcVhks0">walk my dog</a></li>
-    </ol>
-    
-    
-
-  </body>
 </html>
 
 <!DOCTYPE html>
@@ -108,5 +93,21 @@
   <textarea name="yourMessage" rows="10" cols="30"></textarea><br>
   <input type="submit" name="">
     <hr>
+  </body>
+    
+    <title>My hobbies</title>
+  </head>
+  <body>
+    <h3>Hobbies</h3>
+
+    <ol>
+      <li> <a href="https://www.youtube.com/watch?v=pz1ztvu77FM">walking</a></li>
+      <li><a href="https://www.youtube.com/watch?v=Cb5bjlnDkCs">Taking photos</a></li>
+      <li><a href="https://www.youtube.com/watch?v=RfVgZSaNZFY">driving</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sniUqcVhks0">walk my dog</a></li>
+    </ol>
+    
+    
+
   </body>
 </html>
