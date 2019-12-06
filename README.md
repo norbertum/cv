@@ -83,18 +83,15 @@ function magnify(imgID, zoom) {
   }
 }
 </script>
-</head>
 <body>
 
-<h1>Image Magnifier Glass</h1>
+<h1>Soy Bundi</h1>
 
-<p>Mouse over the image:</p>
 
 <div class="img-magnifier-container">
-  <img id="myimage" src="https://media.giphy.com/media/3o6Ei2a7ulMWnoNBQY/giphy.gif" width="600" height="400">
+  <img id="myimage" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/53521086_2235977566675244_2916928562214346892_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=108&oh=d508cd75f27e81ab711c8c35bc988191&oe=5E869200">
 </div>
 
-<p>Feel free to change the strength of the magnifier glass when initiating the magnify function.</p>
 
 <script>
 /* Initiate Magnify Function
