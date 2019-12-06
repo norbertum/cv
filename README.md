@@ -9,6 +9,11 @@
   </head>
   <body>
   <style>
+    
+    <div class="img-magnifier-container">
+  <img id="myimage" src="img_girl.jpg" width="600" height="400" alt="Girl">
+</div>
+
 div {
   background-image: url('https://media.giphy.com/media/xUA7aUr8w4BOQIfzMc/giphy.gif');
   background-repeat: no-repeat;
