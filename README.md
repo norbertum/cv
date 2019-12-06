@@ -89,8 +89,7 @@ function magnify(imgID, zoom) {
 
 
 <div class="img-magnifier-container">
-  <img id="myimage" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/53521086_2235977566675244_2916928562214346892_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=108&oh=d508cd75f27e81ab711c8c35bc988191&oe=5E869200">
-</div>
+  <img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/53521086_2235977566675244_2916928562214346892_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=108&oh=d508cd75f27e81ab711c8c35bc988191&oe=5E869200" alt="Smiley face" width="600" height="600">
 
 
 <script>
