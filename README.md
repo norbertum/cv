@@ -12,7 +12,7 @@
 div {
   background-image: url('https://media.giphy.com/media/xUA7aUr8w4BOQIfzMc/giphy.gif');
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 50% 50%;
 }
 </style>
   
