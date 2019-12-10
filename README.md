@@ -99,28 +99,3 @@ with the id of the image, and the strength of the magnifier glass:*/
 magnify("myimage", 3);
 </script>
 
-<p>
-S
-Emphatic: I take other people emotions as mine, it helps understand their point of view. I make people calm
-Primary contact: people turn to me for advise, on daily basis people aproach me with work related questions (system, procedures etc,) Its prove they trust on me, on my knowledge and opinion. 
-Analytical:   Examine facts and information. I  track source of information I check colophones of bookes or sourches on wikipedia pages, also I'm methodical also skeptical. Find effective solutions for problems. Actually this is my daily task in the work find affordable solution for partneres to their requests. 
-Excellent communication skills: active listening, adabt communication style, friendliness, feedbacks (give and receive), 
-Ability to change opinion: realize decisions and opinons are not final and having the ability to change it. Example: I can be conviced with fact, data if those proove the oposit.
-W
-Not lost in  details: have more focus on the target. During my studies and resarches I faced varios time to lost the main track and spend time with not relevant information. 
-Decesions: I make final decesion easy sometimes fast. I want to take more time on decisions before delive answer.
-Networking: I want more visiblity. I have good communication skills so it makes it easy but I am afraid I do not take adavantege on it. I want to turn this to the oposit. 
-Motivate: I want motivate people more make them beleive their goals our reachable. I want to learn more skills related this. 
-Have examples. 
-
-O
-B.Mentor Program!
-online trainings, and classes (Udemy, linda, etc. )
-PDP helps to show my stage, I summary of my actions and plans I want to achive. 
-collegaue support (my TL, other workmates in and out of the office (other offices).
-
-T
-Competetion: TL position is popular. I have to show why I'm unique and better than others. 
-Limitations: there are limited places to this role
-Developmental areas: find those gaps that make me trick to achive the position. Have more feedback regarding it  so I can learn about. 
-</p>
